@@ -1,0 +1,4 @@
+- Boas boas - vinda ao meu perfil
+- Estou me desenvolvendo na linguaguem javaScript
+- Estou estudando na plataforma ALURA
+- Entre em contato comigo
